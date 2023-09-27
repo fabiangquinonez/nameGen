@@ -1,5 +1,5 @@
 # CMPE 133 Team 13
-# NameGenereator
+# NameGenerator
 
 ### Team Members
 - Brandon Cox (@brafricaon) Team Leader
